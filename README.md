@@ -12,3 +12,4 @@
 
 
 - Ejercicio 2a resuelto
+- Ejercicio 2b resuelto
